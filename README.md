@@ -73,7 +73,7 @@ Your Output will be something like this
       272_465_847 = null;
       427_265_337 = "hello Rust";
       1_779_848_746 = 1_730_964_785_566_115_402 : nat64;
-      1_937_500_811 = principal "pws7l-epgej-uwevv-ndur5-5pxhm-r3ib5-zrhjq-3titp-xd3ut-lma2a-gae";
+      1_937_500_811 = principal "<PRINCIPAL ID OF MESSAGE CREATOR>";
       1_962_907_452 = 0 : nat32;
       2_136_900_368 = null;
       2_871_942_152 = vec {};
@@ -128,7 +128,7 @@ It will Update your Message from `hello Rust` TO `hello yash`
       272_465_847 = opt (1_730_965_266_630_815_943 : nat64);
       427_265_337 = "hello yash";
       1_779_848_746 = 1_730_964_785_566_115_402 : nat64;
-      1_937_500_811 = principal "pws7l-epgej-uwevv-ndur5-5pxhm-r3ib5-zrhjq-3titp-xd3ut-lma2a-gae";
+      1_937_500_811 = principal "<PRINCIPAL ID OF MESSAGE CREATOR>";
       1_962_907_452 = 0 : nat32;
       2_136_900_368 = null;
       2_871_942_152 = vec {};
