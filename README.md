@@ -116,17 +116,17 @@ It will show all the created Message by author
 ```
 ### To `update the Message` Enter the below command 
 ```
-dfx canister call message_board_backend update_message '(3 : nat64, record { content = "hello yash" })'
+dfx canister call message_board_backend update_message '(3 : nat64, record { content = "hello Naman" })'
 ```
 Your Output will be something like this :
-It will Update your Message from `hello Rust` TO `hello yash`
+It will Update your Message from `hello Rust` TO `hello Naman`
 ```
 (
   variant {
     17_724 = record {
       23_515 = 3 : nat64;
       272_465_847 = opt (1_730_965_266_630_815_943 : nat64);
-      427_265_337 = "hello yash";
+      427_265_337 = "hello Naman";
       1_779_848_746 = 1_730_964_785_566_115_402 : nat64;
       1_937_500_811 = principal "<PRINCIPAL ID OF MESSAGE CREATOR>";
       1_962_907_452 = 0 : nat32;
